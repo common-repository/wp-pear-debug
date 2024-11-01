@@ -1,0 +1,274 @@
+# Translation of the WordPress plugin wp pear debug 1.4.5 by Community Modder.
+# Copyright (C) 2010 Community Modder
+# This file is distributed under the same license as the wp pear debug package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp pear debug 1.4.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-pear-debug\n"
+"POT-Creation-Date: 2010-02-05 02:05+0000\n"
+"PO-Revision-Date: 2010-02-26 02:25-0600\n"
+"Last-Translator: Commnity Modder <support@communitymodder.com>\n"
+"Language-Team: modder <support@communitmodder.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Debug/Renderer/HTML/Div.class.php:139
+msgid "The output is valid"
+msgstr "The output is valid"
+
+#: Debug/Renderer/HTML/Div.class.php:141
+msgid "The output is NOT valid"
+msgstr "The output is NOT valid"
+
+#: Debug/Renderer/HTML/Div.class.php:157
+msgid "Validation results can't be retrieved (localhost source ?)"
+msgstr "Validation results can't be retrieved (localhost source ?)"
+
+#: Debug/Renderer/HTML/Div.class.php:162
+msgid "Unable to parse"
+msgstr "Unable to parse"
+
+#: Debug/Renderer/HTML/Div.class.php:250
+msgid "No database debug available"
+msgstr "No database debug available"
+
+#: Debug/Renderer/HTML/Div.class.php:549
+#: Debug/Renderer/HTML/DivConfig.class.php:255
+msgid "message"
+msgstr "message"
+
+#: Debug/Renderer/HTML/Div.class.php:550
+#: Debug/Renderer/HTML/DivConfig.class.php:189
+msgid "time (ms)"
+msgstr "time (ms)"
+
+#: Debug/Renderer/HTML/Div.class.php:551
+#: Debug/Renderer/HTML/DivConfig.class.php:190
+msgid "percent"
+msgstr "percent"
+
+#: Debug/Renderer/HTML/Div.class.php:1158
+msgid "WARNING"
+msgstr "WARNING"
+
+#: Debug/Renderer/HTML/Div.class.php:1164
+msgid "notice"
+msgstr "notice"
+
+#: Debug/Renderer/HTML/Div.class.php:1170
+msgid "User error"
+msgstr "User error"
+
+#: Debug/Renderer/HTML/Div.class.php:1177
+msgid "STRICT error"
+msgstr "STRICT error"
+
+#: Debug/Renderer/HTML/Div.class.php:1183
+msgid "errorlevel"
+msgstr "errorlevel"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:116
+msgid "PHP_Debug"
+msgstr "PHP_Debug"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:120
+msgid "vars &amp; config"
+msgstr "vars &amp; config"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:121
+msgid "logs &amp; msgs"
+msgstr "logs &amp; msgs"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:122
+msgid "Queries"
+msgstr "Queries"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:137
+msgid "W3C validation"
+msgstr "W3C validation"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:138
+msgid "Click on the WC3 logo to verify the validation or to check the errors"
+msgstr "Click on the WC3 logo to verify the validation or to check the errors"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:142
+msgid "W3C Validator\""
+msgstr "W3C Validator\""
+
+#: Debug/Renderer/HTML/DivConfig.class.php:145
+msgid "or copy paste the source here"
+msgstr "or copy paste the source here"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:158
+msgid "n°"
+msgstr "n°"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:159
+msgid "Line"
+msgstr "Line"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:160
+msgid "Col"
+msgstr "Col"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:161
+msgid "Message"
+msgstr "Message"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:188
+#: Debug/Renderer/HTML/DivConfig.class.php:249
+msgid "type"
+msgstr "type"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:219
+msgid "Database / SQL queries"
+msgstr "Database / SQL queries"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:236
+msgid "Log and debug messages"
+msgstr "Log and debug messages"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:238
+msgid "all"
+msgstr "all"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:239
+msgid "none"
+msgstr "none"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:240
+msgid "Info"
+msgstr "Info"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:241
+msgid "Warning"
+msgstr "Warning"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:242
+msgid "Error"
+msgstr "Error"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:250
+msgid "file"
+msgstr "file"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:251
+msgid "line"
+msgstr "line"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:252
+msgid "class"
+msgstr "class"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:253
+msgid "function"
+msgstr "function"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:254
+msgid "time"
+msgstr "time"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:270
+msgid "Configuration and request variables"
+msgstr "Configuration and request variables"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:272
+msgid "Request"
+msgstr "Request"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:272
+#: Debug/Renderer/HTML/DivConfig.class.php:278
+#: Debug/Renderer/HTML/DivConfig.class.php:283
+#: Debug/Renderer/HTML/DivConfig.class.php:288
+#: Debug/Renderer/HTML/DivConfig.class.php:293
+#: Debug/Renderer/HTML/DivConfig.class.php:298
+msgid "Toggle"
+msgstr "Toggle"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:278
+msgid "Response"
+msgstr "Response"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:283
+msgid "Settings"
+msgstr "Settings"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:288
+msgid "Globals"
+msgstr "Globals"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:293
+msgid "Php"
+msgstr "Php"
+
+#: Debug/Renderer/HTML/DivConfig.class.php:298
+msgid "Files"
+msgstr "Files"
+
+#: wp-pear-debug.php:213
+msgid "seconds"
+msgstr "seconds"
+
+#: wp-pear-debug.php:327
+msgid "Debugger Options"
+msgstr "Debugger Options"
+
+#: wp-pear-debug.php:327
+msgid "Debugger"
+msgstr "Debugger "
+
+#: wp-pear-debug.php:379
+msgid "Debugger Settings"
+msgstr "Debugger Settings"
+
+#: wp-pear-debug.php:386
+msgid "Disable Debugging"
+msgstr "Disable Debugging"
+
+#: wp-pear-debug.php:387
+msgid "Enable Debugging"
+msgstr "Enable Debugging"
+
+#: wp-pear-debug.php:392
+msgid "Display Debug for Roles:"
+msgstr "Display Debug for Roles:"
+
+#: wp-pear-debug.php:414
+msgid "Disable"
+msgstr "Disable "
+
+#: wp-pear-debug.php:417
+msgid "Front End Only"
+msgstr "Front End Only"
+
+#: wp-pear-debug.php:422
+msgid "Admin Only"
+msgstr "Admin Only"
+
+#: wp-pear-debug.php:425
+msgid "Admin & Front End"
+msgstr "Admin & Front End"
+
+#: wp-pear-debug.php:442
+msgid "Save Changes"
+msgstr "Save Changes "
+
+#. Plugin Name of an extension
+msgid "wp pear debug"
+msgstr "wp pear debug"
+
+#. Plugin URI of an extension
+msgid "http://www.communitymodder.com"
+msgstr "http://www.communitymodder.com"
+
+#. Description of an extension
+msgid "Integration of pear php_debug. Plugin discussion forum: http://www.communitymodder.com/Wordpress-Plugins/88-wp-pear-debug-wordpress-plugin.html"
+msgstr "Integration of pear php_debug. Plugin discussion forum: http://www.communitymodder.com/Wordpress-Plugins/88-wp-pear-debug-wordpress-plugin.html"
+
+#. Author of an extension
+msgid "Community Modder"
+msgstr "Community Modder"
+
